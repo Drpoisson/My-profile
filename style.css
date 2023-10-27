@@ -1,0 +1,19 @@
+body {
+        background-color: beige;
+        color: rgb(40, 40,40);
+        font-family: 'Times New Roman', Times, serif;
+    h1, h2, h3, h4 {
+        margin: 0px auto;
+    }
+    h1 {
+    font-size: 40px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+}
+}
+a {
+    color :rgb(160, 80, 160) 
+}
+.circle {
+    border-radius: 50%;
+}
